@@ -1,2 +1,2 @@
 # gitritus.github.io
-Demo oldalam
+Ritus nemcicus demo oldala
